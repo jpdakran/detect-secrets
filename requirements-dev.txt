@@ -41,3 +41,4 @@ unidiff==0.7.5
 urllib3==2.2.1
 virtualenv==20.26.1
 zipp==3.19.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
